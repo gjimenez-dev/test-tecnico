@@ -1,0 +1,9 @@
+.logo {
+  position: static;
+  padding: 5px;
+  border: 2px groove #B4F708;
+  border-radius: 18px;
+  width: 330px;
+  height: 105px;
+  margin-bottom: 10px;
+}
